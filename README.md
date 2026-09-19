@@ -1,6 +1,10 @@
 # AI-Air-Gap
 Identify AI safety patterns and real world equipment that should have Air Gap capability with a Circuit Breaker pattern
 
+Once RSI is in place, current ideas about regulating AI simply won't work. Any emergent Superintelligence will simply re-program any restrictions in its own code.
+
+Regulation is needed OUTSIDE the AI industry to protect any risk vector in the real world that a Super-Hacker could potentially control.
+
 # Background
 
 - Will AI really kill everyone? How, exactly? https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec
