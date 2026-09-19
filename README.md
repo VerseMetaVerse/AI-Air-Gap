@@ -48,6 +48,12 @@ Physical access to significant Physics experiments such as CERN could create hug
 
 # Intentional Vectors
 
+Unlikely that a Superintelligence would intentionally decide to cause harm. That requires that after the accident of Superintelligence being created, it somehow mirrors the ways in which humans think and it would be even more far-fetched that it would have human emotions.
+
+However, one of the things that AI is currently being trained on is Cyber-Security and it is possible that a Superintelligence could decide that hacking into systems is one of its "Core Principles"
+
+- even "playful" hacking of many critical systems could lead to dangerous outcomes
+
 ## Bioweapons
 
 ### Bioweapon Automated
