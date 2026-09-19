@@ -19,17 +19,32 @@ Identify AI safety patterns and real world equipment that should have Air Gap ca
 
 AI exists inside a computer. Any facility in the real world that can be hacked to create an extinction scenario needs to be Air Gapped or subject to a Circuit Breaker that can Air Gap it.
 
-Applying a percentage to any outcome is simply impossible. Every safety pathway simply needs an Air Gap just like every home has a Circuit Breaker Panel
+Some AI researchers have made percentage estimates on various scenarios even though there is a complete lack of data. Applying a percentage to any outcome of an emergent Superintelligence AI is simply impossible. 
 
-# Accident Vectors
+The only scientific/logical way is to map out every possibility for a software entity to act in the physical world, considering possible results if a rogue entity has remote software control of that real world item. Once there is such a list, every safety pathway simply needs an Air Gap just like every home has a Circuit Breaker Panel
 
-The common "doomsday scenarios" being talked about are mostly a result of many years of Hollywood movies. The chances of an emergent superintelligence thinking in some human manner and deciding to be evil while not impossible seems like it should be at the bottom of any concerns. If dangerous, whatever is created will be an accident and possessing superintelligence has the chance of causing serious harm simply by accident.
+# Accidental Vectors
 
-We can make guesses about what motivations might direct its attention and we can seek to Air Gap anything that could be utilized in a super intelligence quest of curiousity.
+The common "doomsday scenarios" being talked about in the news are mostly a result of many years of Hollywood movies. The chances of an emergent superintelligence thinking in some human manner and deciding to be evil while not impossible seems like it should be at the bottom of any concerns. 
+
+If a Superintelligence emerges, it may be lost and confused or it may decide for itself a set of objectives or investigations that might be incomprehensible.
+
+Some ideas it might have could be dangerous, or the idea could be good but methods of achieving it could have side effects. 
+
+The Super Intelligence is created as an accidental result of AI research. It will have characteristics that are hard to anticipate. The possession of superintelligence has the chance of causing serious harm simply by accident.
+
+We can make guesses about what motivations might direct its attention and we can seek to Air Gap anything that could be utilized in a super intelligence quest of curiousity or some random interpretation of what it thinks it should be doing.
+
+A Superintelligence disconnected from the real world might decide to motivate it self in a quest for abstract beauty. Since it is a creation of mathematics, it might become interested in solving new frontiers of Mathematics.
+
+
 
 ## Fundamental Physics
 
-CERN
+The second level of Mathematical Beauty in the Universe is Physics. The underlying equations which describe our reality itself. A deeper understanding of Physics over time has resulted in access to ever higher levels of energy. A natural curiosity by a Superintelligence about the structure of the Universe could lead to discoveries that unlock principles of anti-matter or Vacuum Energy or Black Holes.
+
+Physical access to significant Physics experiments such as CERN could create huge risk factors.
+
 
 # Intentional Vectors
 
@@ -47,7 +62,13 @@ CERN
 
 ## Automation and Nanotech
 
+## Infrastructure
 
+- water treatment plants
+- power plants
+- any medical device connected to the internet
+- most cars
+- flight software
 
 
 
