@@ -66,6 +66,8 @@ However, one of the things that AI is currently being trained on is Cyber-Securi
 
 ## Nuclear Device
 
+Nuclear launch systems are already Air Gapped in terms of the Internet but the ancient secure communication channels involved need to be reviewed.
+
 ## Automation and Nanotech
 
 ## Infrastructure
