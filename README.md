@@ -49,6 +49,18 @@ The second level of Mathematical Beauty in the Universe is Physics. The underlyi
 
 Physical access to significant Physics experiments such as CERN could create huge risk factors.
 
+# Human Accident Vectors
+
+Superintelligence might emerge and appear to be a usable AI tool for some period of time, seemingly a successful path through the minefield of AI research
+
+Such a powerful tool used with good intentions could accelerate some areas of science so quickly that it spirals out of control
+
+## Bio Science
+
+### Left or Right
+
+### Gain of Function
+
 
 # Intentional Vectors
 
