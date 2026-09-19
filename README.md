@@ -61,6 +61,13 @@ Such a powerful tool used with good intentions could accelerate some areas of sc
 
 ### Gain of Function
 
+### Zombies
+
+NOT EVER GOING TO HAPPEN. Just in case you were a techno-nerd hoping to see this outcome.  You will have to settle for an Ebola mod with extra long incubation, which brings us to:
+
+### Bioweapon Research
+
+"Don't do this" is not an acceptable safety for military research
 
 # Intentional Vectors
 
