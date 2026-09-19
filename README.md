@@ -5,6 +5,10 @@ Once RSI is in place, current ideas about regulating AI simply won't work. Any e
 
 Regulation is needed OUTSIDE the AI industry to protect any risk vector in the real world that a Super-Hacker could potentially control.
 
+"ELI - Well, this couldn't get much worse.
+RUSH - I'm afraid that's a failure of imagination."
+Stargate Universe
+
 # Background
 
 - Will AI really kill everyone? How, exactly? https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec
@@ -72,6 +76,9 @@ NOT EVER GOING TO HAPPEN. Just in case you were a techno-nerd hoping to see this
 ### Bioweapon Research
 
 "Don't do this" is not an acceptable safety for military research
+
+### Nuclear Weapon Research
+- Antimatter
 
 # Intentional Vectors
 
