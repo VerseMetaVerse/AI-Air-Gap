@@ -55,6 +55,10 @@ Superintelligence might emerge and appear to be a usable AI tool for some period
 
 Such a powerful tool used with good intentions could accelerate some areas of science so quickly that it spirals out of control
 
+## Hallucinations
+
+- US military had close call after using AI for false intelligence report, sources say https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
+
 ## Bio Science
 
 ### Left or Right
