@@ -67,18 +67,26 @@ Such a powerful tool used with good intentions could accelerate some areas of sc
 
 ### Left or Right
 
+"In December 2024, 38 scientists, including several synthetic biology researchers and two Nobel laureates, warned that the creation of mirror-image life could cause "unprecedented and irreversible harm" to human health and ecosystems worldwide.[3][26] The reversed structure of mirror-image bacteria could allow them to evade many mechanisms critical for immunity and predation that have evolved to recognize natural-chirality structures.[27] As a result, mirror-image bacteria could potentially escape immune defenses and invade natural ecosystems, leading to "pervasive lethal infections in a substantial fraction of plant and animal species, including humans." Given these risks, the scientists concluded that mirror-image organisms should not be created without compelling evidence of safety.[3] As of January 2026, no researchers are known to be pursuing the creation of mirror life; several who had been pursuing it have since renounced it and signed on as coauthors on the 2024 paper"
+https://en.wikipedia.org/wiki/Mirror-image_life
+
 ### Gain of Function
+
+Engineered virus for good purposes can escape lab.
 
 ### Zombies
 
-NOT EVER GOING TO HAPPEN. Just in case you were a techno-nerd hoping to see this outcome.  You will have to settle for an Ebola mod with extra long incubation, which brings us to:
+Not science. Not a probable risk factor other than Superintelligence could possibly bio-engineer this due to strong cultural embeddings.
 
 ### Bioweapon Research
 
-"Don't do this" is not an acceptable safety for military research
+"Don't do this" is not a workable restriction for military research
 
 ### Nuclear Weapon Research
-- Antimatter
+
+"Don't do this" is not a workable restriction for military research
+
+- Anti-matter
 
 # Intentional Vectors
 
