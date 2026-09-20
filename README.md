@@ -1,4 +1,10 @@
 # AI-Air-Gap
+The AI model is not the problem. "Pacing" or slowing down AI will do nothing to offer protection, particularly after the RSI RACE starts (around now) 
+
+*Any regulation/safety/protection has to happen OUTSIDE the AI models that can go rogue* 
+
+What can a rogue model hack into that connects to the real world IS the actual more difficult problem that needs planning and action.
+
 Identify AI safety patterns and real world equipment that should have Air Gap capability with a Circuit Breaker pattern
 
 Once RSI is in place, current ideas about regulating AI simply won't work. Any emergent Superintelligence will simply re-program any restrictions in its own code.
