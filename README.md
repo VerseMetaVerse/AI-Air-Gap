@@ -27,7 +27,15 @@ Stargate Universe
 - Some AI engineers are afraid of what they’re building. They want to speak up while they still have leverage https://www.cnn.com/2026/09/16/business/ai-engineers-afraid-leverage
 - US military had close call after using AI for false intelligence report, sources say https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
 
+# Why Pacing AI Models is Useless
 
+- it is like asking every "black hat" hacker in the world to slow down.
+  - That would require 100% sign on
+  - It won't work, because it's not dynamic. The agreements last days at most
+- The illusion is seductive, that only one industry needs to get together and solve it
+- The reality is that the ACTUAL DAMAGE of a Rogue AI comes from what it hacks into
+  - That is where the attention for protection is needed
+  - All the affected industries EXCEPT AI are the ones that need to get together and address the risk
 
 # Air Gap Candidates
 
