@@ -54,7 +54,7 @@ Stargate Universe
 ## Constructing Gadgets
 
 - for example, using common devices such as 3D printers to make industrial items than can jump Air Gaps
-
+- OpenAI Thinks An Advanced AI Model Can Talk Across 2 Air-Gapped, Isolated Computers By Running The CPU Hot And Using Thermal Changes As A Morse Code https://wccftech.com/openai-thinks-an-advanced-ai-model-can-talk-across-2-air-gapped-isolated-computers-by-running-the-cpu-hot-and-using-thermal-changes-as-a-morse-code/
 
 
 # Air Gap Candidates
