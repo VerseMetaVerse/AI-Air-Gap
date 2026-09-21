@@ -1,4 +1,12 @@
 # AI-Air-Gap
+
+Software running on a computer, even Superintelligence, needs to access or hack into access of real physical equipment in the real world in order to cause extinction level harm.
+
+### That ACCESS is what needs planning and regulation and has little or zero to do with
+- AI Models,
+- AI organizations or
+- the AI Industry.
+
 The AI model is not the problem. "Pacing" or slowing down AI will do nothing to offer protection, particularly after the RSI RACE starts (around now) 
 
 *Any regulation/safety/protection has to happen OUTSIDE the AI models that can go rogue* 
