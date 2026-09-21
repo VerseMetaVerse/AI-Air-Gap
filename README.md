@@ -45,7 +45,7 @@ Some AI researchers have made percentage estimates on various scenarios even tho
 
 The only scientific/logical way is to map out every possibility for a software entity to act in the physical world, considering possible results if a rogue entity has remote software control of that real world item. Once there is such a list, every safety pathway simply needs an Air Gap just like every home has a Circuit Breaker Panel
 
-# Accidental Vectors
+# Air Gaps needed for Superintelligence Accidents and Incomprehsible Thinking
 
 The common "doomsday scenarios" being talked about in the news are mostly a result of many years of Hollywood movies. The chances of an emergent superintelligence thinking in some human manner and deciding to be evil while not impossible seems like it should be at the bottom of any concerns. 
 
@@ -67,7 +67,7 @@ The second level of Mathematical Beauty in the Universe is Physics. The underlyi
 
 Physical access to significant Physics experiments such as CERN could create huge risk factors.
 
-# Human Accident Vectors
+# Air Gaps needed for Human Mistakes using Superintelligence
 
 Superintelligence might emerge and appear to be a usable AI tool for some period of time, seemingly a successful path through the minefield of AI research
 
@@ -102,7 +102,7 @@ Not science. Not a probable risk factor other than Superintelligence could possi
 
 - Anti-matter
 
-# Intentional Vectors
+# Air Gaps needed for Harmful Rogue Superintelligence
 
 Unlikely that a Superintelligence would intentionally decide to cause harm. That requires that after the accident of Superintelligence being created, it somehow mirrors the ways in which humans think and it would be even more far-fetched that it would have human emotions.
 
