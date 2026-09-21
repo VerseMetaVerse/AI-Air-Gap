@@ -45,6 +45,18 @@ Stargate Universe
   - That is where the attention for protection is needed
   - All the affected industries EXCEPT AI are the ones that need to get together and address the risk
 
+# Circumventing Air Gaps
+
+## Manipulating Humans
+
+- for example, protecting a nuclear launch site with an Air Gap would be useless if a Superintelligence can manipulate a human to grant it access
+ 
+## Constructing Gadgets
+
+- for example, using common devices such as 3D printers to make industrial items than can jump Air Gaps
+
+
+
 # Air Gap Candidates
 
 AI exists inside a computer. Any facility in the real world that can be hacked to create an extinction scenario needs to be Air Gapped or subject to a Circuit Breaker that can Air Gap it.
