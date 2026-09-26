@@ -25,9 +25,7 @@ Once RSI is in place, current ideas about regulating AI simply won't work. Any e
 
 Regulation is needed OUTSIDE the AI industry to protect any risk vector in the real world that a Super-Hacker could potentially control.
 
-"ELI - Well, this couldn't get much worse.
-RUSH - I'm afraid that's a failure of imagination."
-Stargate Universe
+### "*ELI - Well, this couldn't get much worse.*  *RUSH - I'm afraid that's a failure of imagination.*"  Stargate Universe
 
 # Background
 
